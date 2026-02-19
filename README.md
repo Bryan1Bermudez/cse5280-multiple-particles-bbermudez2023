@@ -1,6 +1,11 @@
 **Name:** Bryan Bermudez
 **NetID:** bbermudez2023
 
+#Run instructions
+Notebook is provided with all the code but no visable animations or graphs due to 
+github file size limit. Simply download and run all cells to see animations and 
+other visuals.
+
 
 # Comparative Analysis
 
