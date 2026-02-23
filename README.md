@@ -1,10 +1,13 @@
 **Name:** Bryan Bermudez
 **NetID:** bbermudez2023
 
-#Run instructions
-Notebook is provided with all the code but no visable animations or graphs due to 
-github file size limit. Simply download and run all cells to see animations and 
-other visuals.
+# Note
+
+Inorder to submit it to github i had to lower the framerate this results in some 
+details not being as visable, most noteably the purple particle osilation. if
+you wish to see the effects more clearly, modify this line
+anim = FuncAnimation(fig, update, frames=range(0, n_steps, x)
+where the lower the x is the more frames it has
 
 
 # Comparative Analysis
