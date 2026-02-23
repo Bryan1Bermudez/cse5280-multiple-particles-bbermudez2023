@@ -10,8 +10,7 @@ anim = FuncAnimation(fig, update, frames=range(0, n_steps, x)
 where the lower the x is the more frames it has
 
 The animations are present, they simply dont show in github
-I added a static image to show the fact that the calculations are being done.
-Inorder to see the animations you have to download the notebook.
+please run the notebook or download it to see the aniamtions
 
 
 # Comparative Analysis
